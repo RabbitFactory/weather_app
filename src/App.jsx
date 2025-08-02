@@ -91,7 +91,7 @@ const App = () => {
               autoplay
               loop
               src={getAnimation()}
-              style={{ height: 300, width: 300 }}
+              style={{ height: 200, width: 200 }}
             />
           </div>
         </div>
